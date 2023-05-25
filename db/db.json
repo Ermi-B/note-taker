@@ -1,6 +1,22 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "1",
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": "d0cbdb28-5222-4182-a901-300452b480ff",
+        "title": "my first note",
+        "text": "Lorem ipusm abra kadabra"
+    },
+    {
+        "id": "6187a6ad-b770-4d63-81d7-082e8bd6461b",
+        "title": "my second note",
+        "text": "Lorem ipusm abra kadabra"
+    },
+    {
+        "id": "9f9a8c82-6ec0-45d0-94af-ff8ec4cbaefd",
+        "title": "my third note",
+        "text": "Lorem ipusm abra kadabra"
     }
 ]
