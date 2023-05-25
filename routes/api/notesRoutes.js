@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const fs = require('fs')
-const { v4:uuidv4 } = require('uuid');
+const { v4:uuidv4 } = require('uuid'); //uuid package is used to generate random unique id
 router.get('/',(req,res)=>{
     fs.readFile('./db/db.json','utf-8',(err,result)=>{
         if(err){
